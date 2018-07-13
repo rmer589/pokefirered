@@ -15,8 +15,8 @@
 	.set TRAINER_CLASS_POKEMANIAC,            14
 	.set TRAINER_CLASS_SWIMMER_M,             15
 	.set TRAINER_CLASS_BLACK_BELT,            16
-	.set TRAINER_CLASS_GUITARIST,             17
-	.set TRAINER_CLASS_KINDLER,               18
+	.set TRAINER_CLASS_BOYFRIEND,             17
+	.set TRAINER_CLASS_GIRLFRIEND,               18
 	.set TRAINER_CLASS_CAMPER,                19
 	.set TRAINER_CLASS_BUG_MANIAC,            20
 	.set TRAINER_CLASS_PSYCHIC_M,             21
